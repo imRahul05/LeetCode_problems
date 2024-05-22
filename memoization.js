@@ -13,3 +13,5 @@ function memoize(fn) {
     }
 }
 
+// memoizener function that is used to cache the value if the vaalue that is 
+//called already called once then it is shown from the array
